@@ -1,0 +1,16 @@
+.container h2 {
+  text-align: center;
+}
+
+.container p {
+  opacity: 0.7;
+  font-size: 18px;
+  padding-bottom: 32px
+}
+
+.container {
+  width: 900px;
+  margin: auto;
+  padding: 0px 24px 24px 24px;
+}
+
